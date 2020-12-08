@@ -1,1 +1,1 @@
-FROM supcik/ci-docker-image:latest
+FROM supcik/dokku-ci-docker-image:latest
